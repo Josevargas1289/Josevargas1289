@@ -84,7 +84,7 @@ EtnoLatir es una aplicación innovadora desarrollada con tecnologías líderes c
 
 </a>
 </p>
-<p>una aplicación moderna y dinámica desarrollada con tecnologías de vanguardia como <strong>React</strong>, <strong>Redux</strong> y <strong>Axios</strong></p>
+<p>Una aplicación moderna y dinámica desarrollada con tecnologías de vanguardia como <strong>React</strong>, <strong>Redux</strong> y <strong>Axios</strong></p>
 </div>                                                             
 </table>                                                                                 
 </div>
