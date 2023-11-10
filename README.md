@@ -52,16 +52,11 @@ EtnoLatir es una aplicación innovadora desarrollada con tecnologías líderes c
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <table>
+<br>
+<br>
+<br>
+<br>
 <tr>
 <td width="50%">
 <h3 align="center">Portafolio</h3>
