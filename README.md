@@ -21,11 +21,9 @@
 <div align="center">
 <a href="https://github.com/Josevargas1289/AppCitas.git" target="_blank"><img src="./img/1.png" width="400" alt="App citas pets"></a>
 <p>
-<a href="https://github.com/Josevargas1289/Etnolatir.git" target="_blank">
+<a href="https://github.com/Josevargas1289/AppCitas.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Esta es una aplicación desarrollada con<strong>React</strong> y utiliza la libreria de <strong>Tailwind</strong> para los estilos.</p>
