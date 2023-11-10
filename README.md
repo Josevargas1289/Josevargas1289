@@ -26,6 +26,8 @@
 </a>
 <a href="https://github.com/Josevargas1289/AppCitas.git" target="_blank">
 </a>
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
 </p>
 <p>Esta es una aplicación desarrollada con<strong>React</strong> y utiliza la libreria de <strong>Tailwind</strong> para los estilos.</p>
 
