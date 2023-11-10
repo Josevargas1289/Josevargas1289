@@ -70,7 +70,6 @@ EtnoLatir es una aplicación innovadora desarrollada con tecnologías líderes c
 </div>
                                                                                       
 </td>
-
 <td width="50%">
 <h3 align="center">Ecommerce</h3>
 <div align="center">                                       
