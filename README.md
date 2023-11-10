@@ -37,6 +37,8 @@
 
 <td width="50%">
                <br>
+               <br>
+
 <h3 align="center">Etnolatir</h3>
 <div align="center">                                       
 <a href="https://github.com/Josevargas1289/Etnolatir.git" target="_blank"><img src="./img//2.png" width="400" alt="EtnoLatir"></a>
