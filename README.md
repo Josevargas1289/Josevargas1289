@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/Josevargas1289/Etnolatir.git">
-<img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge&color=3fFD7f">
+
 </a>
 </p>
 EtnoLatir es una aplicación innovadora desarrollada con tecnologías líderes como <strong>Firebase</strong>, <strong>React</strong> y <strong>css</strong>, diseñada para facilitar la creación y gestión de galerías de imágenes, así como el registro de evidencias en proyectos etnográficos dentro de instituciones educativas y culturales.
@@ -86,7 +86,7 @@ EtnoLatir es una aplicación innovadora desarrollada con tecnologías líderes c
 <img src="./img/3.png">
 </a>
 <a href="https://github.com/Josevargas1289/eCommerce_API.git" target="_blank">
-<img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge&color=fbfc40">
+<!-- <img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge&color=fbfc40"> -->
 </a>
 </p>
 <p>Una aplicación moderna y dinámica desarrollada con tecnologías de vanguardia como <strong>React</strong>, <strong>redux</strong> y <strong>Axios</strong>. Descubre un mundo de productos emocionantes, una navegación intuitiva y un rendimiento optimizado para una experiencia de compra sin complicaciones.</p>
