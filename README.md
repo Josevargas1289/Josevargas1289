@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/Josevargas1289/Etnolatir.git">
-<img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge&color=3fFD7f">
+<!-- <img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge&color=3fFD7f"> -->
 </a>
 </p>
 EtnoLatir es una aplicación innovadora desarrollada con tecnologías líderes como <strong>Firebase</strong>, <strong>React</strong> y <strong>css</strong>, diseñada para facilitar la creación y gestión de galerías de imágenes, así como el registro de evidencias en proyectos etnográficos dentro de instituciones educativas y culturales.
