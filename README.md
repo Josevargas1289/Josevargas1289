@@ -65,8 +65,6 @@ EtnoLatir es una aplicación innovadora desarrollada con tecnologías líderes c
 <a href="https://github.com/Josevargas1289/Portafolio-react.git" target="_blank"><img src="./img//4.png" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/Josevargas1289/Portafolio-react.git" target="_blank">
-<img src="https://github.com/Josevargas1289/Portafolio-react.git">
-</a>
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 <a href="https://github.com/Josevargas1289/Portafolio-react.git" target="_blank">
 </a>
