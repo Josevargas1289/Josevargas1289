@@ -72,11 +72,10 @@ EtnoLatir es una aplicación innovadora desarrollada con tecnologías líderes c
 </td>
 
 <td width="50%">
-
 <h3 align="center">Ecommerce</h3>
 <div align="center">                                       
 <a href="https://github.com/Josevargas1289/eCommerce_API.git" target="_blank"><img src="./img/3.png" width="400" alt="EtnoLatir"></a>
-<br>
+
 <p>
 <a href="https://github.com/Josevargas1289/eCommerce_API.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
