@@ -53,12 +53,12 @@ EtnoLatir es una aplicación innovadora desarrollada con tecnologías líderes c
 </table>                                                                                 
 </div>
 <table>
-<br>
-<br>
-<br>
-<br>
 <tr>
 <td width="50%">
+<br>
+<br>
+<br>
+<br>
 <h3 align="center">Portafolio</h3>
 <div align="center">
 <a href="https://github.com/Josevargas1289/Portafolio-react.git" target="_blank"><img src="./img/4.png" width="400" alt="App citas pets"></a>
