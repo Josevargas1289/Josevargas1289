@@ -22,10 +22,9 @@
 <a href="https://github.com/Josevargas1289/AppCitas.git" target="_blank"><img src="./img/1.png" width="400" alt="App citas pets"></a>
 <p>
 <a href="https://github.com/Josevargas1289/AppCitas.git" target="_blank">
-<img src="./img/1.png">
+
 </a>
 <a href="https://github.com/Josevargas1289/AppCitas.git" target="_blank">
-<img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>Esta es una aplicación desarrollada con<strong>React</strong> y utiliza la libreria de <strong>Tailwind</strong> para los estilos.</p>
